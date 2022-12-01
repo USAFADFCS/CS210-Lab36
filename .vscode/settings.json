@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lab37functs.h": "c",
+        "stdint.h": "c"
+    }
+}
