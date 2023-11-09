@@ -1,4 +1,4 @@
-/** lab37functs.c
+/** lab36functs.c
 * ===========================================================
 * Name: FIRST LAST, DATE
 * Section: SECTION
