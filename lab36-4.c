@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-#include "lab37functs.h"
+#include "lab36functs.h"
 
 int main() {
       
