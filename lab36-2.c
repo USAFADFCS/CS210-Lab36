@@ -1,4 +1,4 @@
-/** lab37-2.c
+/** lab36-2.c
 * ===========================================================
 * Name: FIRST LAST, DATE
 * Section: SECTION
@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-#include "lab37functs.h"
+#include "lab36functs.h"
 
 int main() {
       
